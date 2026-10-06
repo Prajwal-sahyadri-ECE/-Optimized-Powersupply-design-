@@ -75,8 +75,8 @@ This project is an optimized, high-efficiency **Power Management and Multi-Cell 
 │   │   └── Power Circuit.kicad_pcb
 │   └── Gerber/
 │       └── Gerber_Files.zip
-├── Docs/
-│   └── PCB Schematic.png
+├── 3D/
+│   └── 3D-view.png
 ├── LICENSE
 └── README.md
 
